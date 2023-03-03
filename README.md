@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Anand Vibhuti - Data Scientist and Machine Learning Engineer
+# Anand Vibhuti -  Turning Data into Insights 
 Welcome to my Github! My name is Anand Vibhuti and I am a highly motivated and ambitious individual with a passion for machine learning and data science. I am currently pursuing a Bachelor of Science in Computer Science (AI and ML) from the University of London.
 
 ## Skills
