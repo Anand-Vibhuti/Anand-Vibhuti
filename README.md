@@ -32,4 +32,4 @@ Developed a smart stick for visually impaired people using IOT that helps them n
 Created a retro-style game using p5.js, a JavaScript library for creative coding. The game features 8-bit style graphics and sound effects, and allows players to control a character and collect points.
 ## Certification
 IT Support Professional Certificate - Google, Coursera
-Feel free to explore my Github to learn more about my work and projects. You can also reach out to me via email at anand.vibhuti1996@gmail.com 
+## Feel free to explore my Github to learn more about my work and projects. You can also reach out to me via email at anand.vibhuti1996@gmail.com 
