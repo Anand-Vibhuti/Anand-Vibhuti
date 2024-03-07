@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Anand Vibhuti -  Turning Data into Insights 
-Welcome to my Github! My name is Anand Vibhuti and I am a highly motivated and ambitious individual with a passion for machine learning and data science. I am currently pursuing a Bachelor of Science in Computer Science (AI and ML) from the University of London.
+Welcome to my Github! My name is Anand Vibhuti and I am a highly motivated and ambitious individual with a passion for machine learning and data science. 
 
 ## Skills
 ### Programming Languages
@@ -13,8 +13,6 @@ Object-Oriented Programming, Software Design and Development, Visual Studio, VS 
 ## Education
 ### National Institute of Technology Hamirpur
 Bachelors + Masters of Technology (Btech+Mtech) in Electronics and Communication Engineering 
-### University of London
-Bachelors of Science in Computer Science (AI and ML)
 ## Projects
 Here are some of the projects that I have worked on:
 
